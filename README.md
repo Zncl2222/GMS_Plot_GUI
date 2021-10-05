@@ -1,4 +1,4 @@
-# GMS_Plot_GUI
+## GMS_Plot_GUI
 
 This is a simple GUI for GMS plot!
 
